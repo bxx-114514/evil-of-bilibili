@@ -13,7 +13,7 @@
 ![](https://raw.githubusercontent.com/KugouGames/evil-of-bilibili/refs/heads/main/Images/xhs_67fcdad1000000000e004a51/2.jpg)
 ![](https://raw.githubusercontent.com/KugouGames/evil-of-bilibili/refs/heads/main/Images/xhs_67fcdad1000000000e004a51/3.jpg)
 
-图 4：至于反节奏的米up，不好意思，违规原因：账号已封禁
+图 4：至于反节奏的米 up，不好意思，违规原因：账号已封禁
 
 ![](https://raw.githubusercontent.com/KugouGames/evil-of-bilibili/refs/heads/main/Images/xhs_67fcdad1000000000e004a51/4.jpg)
 
