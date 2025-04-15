@@ -1,4 +1,4 @@
-# 项目介绍 Project Intoduction
+# 项目介绍 Project Introduction
 
 记录批站的各种黑料。
 
