@@ -4,10 +4,12 @@
 
 Recording the evil of pilipili (bilibili).
 
-投稿邮箱 Relating Email: tzhong072@gmail.com
-
-　
-
 「你所热爱的，就是你的生活。」「你　妈什么时候死啊？」
 
 「B 站可能会倒闭，但绝不会变质。」
+
+# 投稿方式 How to relate
+
+tzhong072@gmail.com
+
+[Issues](https://github.com/bxx-114514/evil-of-bilibili/issues)
