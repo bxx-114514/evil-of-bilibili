@@ -1,6 +1,6 @@
 # B 站到底有多烂？我来告诉你！
 
-小红书 Xiaohongshu/Redbook @戏剧化愚者（前id欢愉）
+小红书 Xiaohongshu/Redbook [@戏剧化愚者（前id欢愉）](https://www.xiaohongshu.com/user/profile/66ffe613000000001d032a70)
 
 这些截图仅仅是沧海一粟，欢迎补充！给小红书用户一点小小的震撼
 
@@ -32,5 +32,7 @@
 ![](https://raw.githubusercontent.com/KugouGames/evil-of-bilibili/refs/heads/main/Images/xhs_67fcdad1000000000e004a51/9.jpg)
 	
 B 站？呵呵
+
+# 外部链接
 
 来源 https://www.xiaohongshu.com/explore/67fcdad1000000000e004a51
