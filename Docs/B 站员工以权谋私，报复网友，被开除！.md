@@ -1,6 +1,6 @@
 # B 站员工以权谋私，报复网友，被开除！
 
-小红书 [Xiaohongshu/Redbook @游戏圈内儿](https://www.xiaohongshu.com/user/profile/66f55684000000001d020afb)
+### 小红书 [Xiaohongshu/Redbook @游戏圈内儿](https://www.xiaohongshu.com/user/profile/66f55684000000001d020afb)
 
 近日，B 站发生了一起内部员工滥用权限、对特定用户进行恶意报复的事件。据悉，该员工利用自身技术权限，在 B 站网页端代码中植入了恶意代码，导致某用户在观看视频时收到了「账号已被封禁」的错误提示。
 
