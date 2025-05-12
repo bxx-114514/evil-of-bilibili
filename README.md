@@ -13,8 +13,11 @@ Recording the evil of pilipili (bilibili).
 * 最喜欢吃不交保护费的厂商黑流量辣
 
 ## 「蒙古上单」精神
-「你所热爱的，就是你的生活。」「你　妈什么时候死啊？」\
-「B 站可能会倒闭，但绝不会变质。」
+陈睿 LV6\
+　你所热爱的，就是你的生活。\
+　蒙古上单 LV5　你　妈什么时候死啊？
+
+# B 站可能会倒闭，但绝不会变质。
 
 # 投稿方式 How to relate
 * tzhong072@gmail.com (如果您没有 GitHub 账号 | If you don’t have a GitHub account)
