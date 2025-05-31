@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/bxx-114514/evil-of-bilibili/refs/heads/main/Images/head.jpg)
+
 # 项目介绍 Project Introduction
 记录批站的各种黑料。\
 Recording the evil of pilipili (bilibili).
