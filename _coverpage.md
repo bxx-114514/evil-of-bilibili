@@ -4,4 +4,4 @@
 - 所以说，柠檬什么时候酸啊？
 
 [GitHub](https://github.com/bxx-114514/evil-of-bilibili)
-[开始吧 Get Started](README.md)
+[开始吧 Getting Started](README.md)
